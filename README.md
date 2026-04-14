@@ -1,5 +1,7 @@
 # APIYI ComfyUI 图片生成节点
 
+![Demo](./example.png)
+
 这是一个 ComfyUI 自定义节点插件，提供两个节点：
 
 1. `APIYI Text to Image`：纯提示词生图（无输入图）
